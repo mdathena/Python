@@ -1,0 +1,14 @@
+!pip install folium
+import folium
+buenos_map = folium.Map([-34.6037, -58.3816], zoom_start = 12)
+neighborhoods = ['Palermo', 'Ricoleta', 'Santelmo', 'Puerto Madero', 'Belgrano', 'La Boca']
+marker_one = folium.Marker([-34.5711, -58.4233])
+marker_two = folium.Marker([-34.5895, -58.3974])
+marker_three = folium.Marker([-34.6212, -58.3731])
+marker_four = folium.Marker([-34.6177, -58.3621])
+marker_five = folium.Marker([-34.603722,  -58.381592])
+marker_six = folium.Marker([-34.6345, -58.3631])
+neighborhood_markers = [marker_one, marker_two, marker_three, marker_four, marker_five, marker_six]
+for marker in neighborhood_markers:
+    marker.add_to(buenos_map)
+buenos_map
