@@ -1,0 +1,77 @@
+Athena Gu
+linkedin.com/in/athena-gu-7405b32
+(703) 328-4344 | mdathena@yahoo.com | Arlington, VA 22207
+
+
+Objective
+Problem solver with a mission to investigate, understand, learn and please. Over 23 years of IT experience in Helpdesk, Software Development and Data Analysis
+
+
+
+
+Business Intelligence
+Healthcare claims auditing
+Data Analysis
+Technical Training
+Skills & Expertise
+SQL
+Access/Excel
+C/C++
+Visual Basic
+
+
+Helpdesk
+Customer Service
+Software Engineering
+
+
+
+Professional Experience Equian, LLC (formerly The Reclaim Group) | Bethesda, MD
+Sr. Analyst (2017 – Present); Data Analyst/Auditor (2012 – 2017)
+Analyzed claims using Excel and various client specific software such as QNXT and NASCO to identify overpayments to Healthcare providers.
+Generated over 1 million dollars in revenue for the company in 2017
+Manipulated and analyzed large datasets in Excel and SQL server to generate possible overpayment reports
+Identified overpayments to providers for Cigna and Horizon.
+
+ManTech International Corporation | Washington, D.C. Data Architect (2011 – 2012)
+Supported the Enterprise Architecture team at the Department of Health and Human Services in Data Architecture related issues.
+Modeled in Troux to increase the EA System Inventory.
+Promoted best practice such as the National Information Exchange Model (NIEM)
+The Reclaim Group, LLC | Bethesda, MD
+IT Manager/Healthcare Data Analyst (2007 – 2011)
+Supported the auditors in day to day IT related issues and processed incoming data from insurance companies to generate data in an auditable format.
+Manipulated and analyze large datasets in Access and Excel.
+Performed regular Systems Administrator duties and managed all IT related issues.
+Automated auditing process using Access and Excel macros, greatly expediting the reviewing time
+
+
+
+Facilities Maintenance, University of Texas At Austin | Austin, TX Data Analyst (2004 – 2007)
+Developed and ran metrics for measuring and improving processes, moving toward Six Sigma performance
+Provided technical support to Building Maintenance users for Access, FAMIS (Computerized Maintenance Management System), VFA (Facilities Condition Assessment) and other databases
+Helped manage the annual repair and renovation budget planning using ACCESS and Visual Basic
+Constructed presentation materials and reports using SQL, ACCESS, EXCEL and COGNOS
+
+Applied Research Labs, University of Texas At Austin | Austin, TX Engineering Scientist Associate (2001 – 2003)
+Improved and maintained multithreaded GUI-based windows applications written in C and C++/MFC in support of US Navy research programs.
+Constructed a user-friendly Matlab GUI front end to replace a text-interface legacy program
+Developed database access functions that use SQL over ODBC interface
+Standardized software development environment and configuration management for a multi-user multi- program application, eliminating duplicate versions and increasing efficiency.
+Trevino Mechanical Contractors | Killeen, TX Programmer II (2001)
+Helped securing a multi-year contract by designing and creating a relational database to track employee information, HVAC inventory, filter change schedule and budget using MS Access and VBScripts
+Maintained and trained users on the database, greatly reducing the amount of paperwork, tremendously increasing efficiency and accuracy
+Central Texas College | Killeen, TX Computer Instructor (2000 – 2001)
+Taught military and civilian personnel hands on courses on Web Design, Database, Advanced Word, Excel under the Microcomputer Specialist Degree plan
+National Trust for Historical Preservation | Washington, D.C. Computer Specialist (1996 – 1999)
+Provided computer hardware and software support to 200+ users in Washington and satellite offices
+
+Administrative Computer Center, University of Maryland at College Park | College Park, MD Helpdesk Technician
+Installed, upgraded, configured and troubleshot software and hardware on PCs.
+Created on-line manuals and documentation, designed and maintained web pages;
+
+Education
+Bachelor of Science, Computer Science |University of Maryland at College Park | 1999
+Licenses & Certifications
+Licensed VA Real Estate Salesperson | Certified Les Mills Bodypump and Bodyflow instructor
+Languages
+English and Mandarin
