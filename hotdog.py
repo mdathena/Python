@@ -1,5 +1,5 @@
 class HotDog:
-  def __int__(self):
+  def __init__(self):
     self.cond = []
     self.cooked_level = 0
     self.cooked_string = "Raw"
