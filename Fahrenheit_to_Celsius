@@ -1,3 +1,6 @@
-fahrenheit = float(input("Type in a temperature in Fahrenheigh: "))
-Celsius = (fahrenheit - 32) * 5.0/9
-print(Celsius)
+def fahrenheit_to_celsius():
+  fahrenheit = float(input("Type in a temperature in Fahrenheigh: "))
+  Celsius = (fahrenheit - 32) * 5.0/9
+  print(Celsius)
+
+fahrenheit_to_celsius()
